@@ -6,3 +6,4 @@
 
 - Projeto Cards realizado no decorrer dos estudos com CSS3 - Flexbox e Media Queries 📝💻🚀
 - #️⃣mediaquery #️⃣flexbox #️⃣responsive
+* **[Projeto Cards Dev](https://helena-lujan-gomes.github.io/projeto-cards-dev-media-queries/)** 
